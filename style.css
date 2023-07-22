@@ -47,7 +47,7 @@ body{
     display: grid;
     gap: 8px;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 120px 120px 120px  120px;
+   grid-auto-rows: 120px;
 
 
 }
